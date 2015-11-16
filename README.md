@@ -2,10 +2,10 @@
 
 ### OS X
 
-Node: `brew install nodejs` or install via nvm
-Update Homebrew: `brew update`
-Elixir: `brew install elixir`
-Phoenix: `mix archive.install https`://github.com/phoenixframework/phoenix/releases/download/v1.0.3/phoenix_new-1.0.3.ez`
+* Node: `brew install nodejs` or install via nvm
+* Update Homebrew: `brew update`
+* Elixir: `brew install elixir`
+* Phoenix: `mix archive.install https`://github.com/phoenixframework/phoenix/releases/download/v1.0.3/phoenix_new-1.0.3.ez`
 
 ### 
 
